@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="OpenJFX11 SDK">
+    <CLASSES>
+      <root url="file:///usr/local/jfx/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///usr/local/jfx/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file:///usr/local/jfx/lib" />
+    </SOURCES>
+    <jarDirectory url="file:///usr/local/jfx/lib" recursive="false" />
+    <jarDirectory url="file:///usr/local/jfx/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
