@@ -22,4 +22,4 @@ mac/bin/java -m TestJFX/sample.Main
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200531031401656.png)
 
-[参考博客](https://www.cnblogs.com/6b7b5fc3/p/12995609.html)
+[参考博客](https://blog.csdn.net/qq_27525611/article/details/106444423)
