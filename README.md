@@ -1,18 +1,18 @@
-本项目已携带jmods文件，只需安装JDK11以上版本，进入TestJFX目录，运行：
+本项目已携带`jmods`文件，只需安装`JDK11`以上版本，进入`TestJFX`目录，运行：
 
-# linux
+# Linux
 ```bash
 jlink --module-path jmod/linux:out/production:lib --add-modules TestJFX --output linux
 linux/bin/java -m TestJFX/sample.Main
 ```
 
-# win
+# Win
 ```bash
 jlink --module-path "jmod/win;out/production;lib" --add-modules TestJFX --output win
 win/bin/java -m TestJFX/sample.Main
 ```
 
-# mac
+# Mac
 ```bash
 jlink --module-path jmod/mac:out/production:lib --add-modules TestJFX --output mac
 mac/bin/java -m TestJFX/sample.Main
@@ -22,5 +22,4 @@ mac/bin/java -m TestJFX/sample.Main
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200531031401656.png)
 
-附博客：
-https://www.cnblogs.com/6b7b5fc3/p/12995609.html
+[参考博客](https://www.cnblogs.com/6b7b5fc3/p/12995609.html)
